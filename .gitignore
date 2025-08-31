@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# audio extensions
+*.mp3
+*.flac
